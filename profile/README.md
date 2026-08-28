@@ -1,4 +1,4 @@
-# Usable Privacy Tools 🛡️
+# usableprivacy.com
 
 > **Simple Privacy Solutions for Everyone.**
 
