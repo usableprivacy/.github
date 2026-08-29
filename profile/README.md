@@ -6,7 +6,7 @@ Our mission is to build simple, effective, and accessible privacy-enhancing tech
 
 ---
 
-## 🚀 Core Projects
+## Projects
 
 ### 1. Usable Privacy DNS (`updns`)
 A privacy-protecting public DNS resolver supporting **DNS over HTTPS (DoH)** and **DNS over TLS (DoT)** with integrated ad, tracker, and malware filtering.
@@ -19,7 +19,7 @@ The management and configuration tool powering the **Usable Privacy Box (`upribo
 #### [upribox](https://github.com/usableprivacy/upribox) (`archived`)
 ---
 
-## 📚 Documentation & Resources
+## Documentation & Resources
 
 Comprehensive setup instructions, technical architecture details, and usage guides are available across our portals:
 * **Documentation Portal:** [docs.usableprivacy.com](https://usableprivacy.com/en/) 
@@ -27,10 +27,10 @@ Comprehensive setup instructions, technical architecture details, and usage guid
 
 ---
 
-## 📄 License
+## License
 
 Unless otherwise specified, projects within this organization are licensed under open-source terms (such as the BSD-2-Clause License). Please check individual repositories for specific licensing details.
 
 ---
 
-[NyosTech e.U.](https://nysos.net)
+2026, [NyosTech e.U.](https://nysos.net/)
