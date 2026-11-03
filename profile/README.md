@@ -2,7 +2,7 @@
 
 # Usable Privacy
 
-## Simple Privacy Solutions for Everyone
+## Simple and Open Privacy Solutions for Everyone
 
 Open-source tools and services that make online privacy  
 accessible, practical and easy to use.
@@ -42,10 +42,10 @@ or explore the [(archived) upribox GitHub project](https://github.com/usablepriv
 ### 🌐 Usable Privacy Service
 
 The **Usable Privacy DNS Service** is a public DNS service designed to
-filter advertising, trackers and malicious domains.
-
-It supports encrypted DNS protocols to protect DNS requests while they
+filter advertising, trackers and malicious domains. It supports encrypted DNS protocols to protect DNS requests while they
 are transmitted over the internet.
+
+#### Adfree Dns-over-HTTPS (DoH) Resolver
 
 > https://adfree.usableprivacy.net/dns-query
 
@@ -72,7 +72,7 @@ improvements or contribute to our projects.
 Official **Usable Privacy** software releases are cryptographically
 signed where applicable.
 
-### OpenPGP code-signing key
+### [OpenPGP code-signing key](../keys/usableprivacy-code-signing.asc)
 
 #### Identity
 
@@ -87,11 +87,9 @@ uid           <code-signing@usableprivacy.com>
 
 ## Official Domains
 
-Usable Privacy uses [usableprivacy.com](https://usableprivacy.com) and
-[usableprivacy.net](https://usableprivacy.net) as its main domains. The Usable Privacy Box project used [upribox.org](https://upribox.org)
-and [upribox.com](https://upribox.com)..
-
-
+Usable Privacy uses [usableprivacy.com](https://usableprivacy.com/) and
+[*.usableprivacy.net](https://usableprivacy.net/) as its main domains.  The Usable Privacy Box project used [upribox.org](https://upribox.org/)
+and [upribox.com](https://upribox.com/).
 
 ---
 2026, [NyosTech e.U.](https://nysos.net/)
