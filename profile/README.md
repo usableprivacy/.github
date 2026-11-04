@@ -28,8 +28,8 @@ The Usable Privacy Box is a privacy-focused solution for home and small networks
 It protects computers, smartphones, smart TVs and other connected devices
 at the network level by filtering advertising and tracking services.
 
-**→ [Box Documentation](https://docs.usableprivacy.com/box)**  
-**→ [Source-Code](https://github.com/usableprivacy/config)**  
+**→ [UP Box Documentation](https://docs.usableprivacy.com/box)**  
+**→ [Source-Code (usableprivacy/config)](https://github.com/usableprivacy/config)**  
 
 **→ [UP4 Box Bestellen](https://nili.cc/de/box/)**
 
@@ -50,7 +50,7 @@ are transmitted over the internet.
 > https://adfree.usableprivacy.net/dns-query
 
 **→ [DNS documentation](https://docs.usableprivacy.com/dns)**  
-**→ [Source code](https://github.com/usableprivacy/updns)**
+**→ [Source code (usableprivacy/updns)](https://github.com/usableprivacy/updns)**
 
 As of 2025 an invite-only service is also available at [nili.cc/service](https://nili.cc/service/).
 
@@ -72,24 +72,25 @@ improvements or contribute to our projects.
 Official **Usable Privacy** software releases are cryptographically
 signed where applicable.
 
-### [OpenPGP code-signing key](../keys/usableprivacy-code-signing.asc)
+### [keys/usableprivacy-code-signing.asc](../keys/usableprivacy-code-signing.asc)
 
-#### Identity
+#### Elliptic Curve Key
 
 ```text
 pub   ed25519 2026-11-02 [C] [expires: 2036-10-30]
       E888CC8727A83E87CA4131B596576C841660ACC7
 uid           <code-signing@usableprivacy.com>
+```
 
+### [keys/upribox-dev-expired.asc](../keys/upribox-dev-expired.asc)
+
+#### Expired RSA Key
+
+```text
+pub   rsa4096 2016-09-29 [SC] [expired: 2025-10-01]
+      BB42F974C2B8E39D5FBA12F6A29F6D2E946A1615
+uid           [ expired] upribox Developers (release signing key) <devs@upribox.org>
 ```
 
 ---
-
-## Official Domains
-
-Usable Privacy uses [usableprivacy.com](https://usableprivacy.com/) and
-[*.usableprivacy.net](https://usableprivacy.net/) as its main domains.  The Usable Privacy Box project used [upribox.org](https://upribox.org/)
-and [upribox.com](https://upribox.com/).
-
----
-2026, [NyosTech e.U.](https://nysos.net/)
+© 2026 [NyosTech e.U.](https://nysos.net/)
