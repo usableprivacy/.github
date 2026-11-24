@@ -1,6 +1,6 @@
 <div align="center">
 
-# Usable Privacy
+# Usable Privacy Tools
 
 ## Simple and Open Privacy Solutions for Everyone
 
@@ -14,10 +14,10 @@ accessible, practical and easy to use.
 
 ---
 
-## About Usable Privacy
+## About Usable Privacy Tools
 
-**Usable Privacy** develops open-source tools and services that make
-privacy technology practical and accessible. Our tools block online ads to help protect your online privacy.
+**usableprivacy.com** develops open-source tools and services that make
+privacy technology practical and accessible. Our tools block online advertising to help protect your privacy. Read more  [about our story](https://usableprivacy.com/en/#story).
 
 ## Projects
 
